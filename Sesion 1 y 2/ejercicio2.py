@@ -10,3 +10,4 @@ def ftexto(texto):
 print(f"{"Cantidad":>10} {cantidad:>6}")
 print(f"{ftexto("Precio:")}{precio:>6}")
 print(f"{ftexto("Total:")}{total:>6}")
+
